@@ -1,0 +1,4 @@
+-enableassertions
+--enable-preview
+--module-path output/debug/modules
+--module util_test/test.TestSuite

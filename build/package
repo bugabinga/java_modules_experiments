@@ -1,0 +1,16 @@
+--name command
+--type app-image
+--dest output/package
+
+--module-path output/release/modules
+--module cli/main.Boot
+--copyright "© 2023 bugabinga.net"
+--app-version 0
+--description "experimental cli"
+--vendor "bugabinga.net"
+
+--add-modules cli,desktop_application
+
+--add-modules cli,desktop_application
+
+--add-launcher application=build/application.properties

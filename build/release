@@ -1,0 +1,6 @@
+-d output/release/modules
+--module-path output/release/modules
+
+-Werror
+-g:none
+-Xdiags:compact

@@ -1,0 +1,4 @@
+--module cli,desktop_application
+--module-source-path source
+--module-version 0.0.0
+

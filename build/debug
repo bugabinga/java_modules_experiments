@@ -1,0 +1,6 @@
+-d output/debug/modules
+--module-path output/debug/modules
+
+-g
+-parameters
+-Xdiags:verbose
